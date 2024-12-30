@@ -1,2 +1,11 @@
-# switchboard-lending-feeds
-Lending Rates that are pulled from API and parsed into a Switchboard Feed. USDC &amp; SOL rates. Create a PR with a new 
+# Switchboard Lending Feeds
+
+These **lending** rates are pulled from APIs and are parsed into a Switchboard On-Demand Feed. 
+
+---
+
+| **Asset/Token** | **Ticker** | **Switchboard Address**                     |
+|-----------------|------------|---------------------------------------------|
+| USDC            | USDC       | [JDJxjuASmvNNBR3YvWVSSsCNcaRzcqjKXWZw8D2PofA9](https://ondemand.switchboard.xyz/solana/mainnet/feed/JDJxjuASmvNNBR3YvWVSSsCNcaRzcqjKXWZw8D2PofA9) |
+| Solana          | SOL        | [6pNdLrm5m7wQ2BBUrV2inFrYTomwhBpUPxKvfkwoQSWc](https://ondemand.switchboard.xyz/solana/mainnet/feed/6pNdLrm5m7wQ2BBUrV2inFrYTomwhBpUPxKvfkwoQSWc) |
+| Epicentral Labs | LABS       | [DL8E8yvKAj3nbDGfXmowYh8yUau8JpbU2DCJDjJS15Rn](https://ondemand.switchboard.xyz/solana/mainnet/feed/DL8E8yvKAj3nbDGfXmowYh8yUau8JpbU2DCJDjJS15Rn) |
